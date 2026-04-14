@@ -4,6 +4,8 @@ PersonaCV AI is a backend service designed to generate, improve, and manage prof
 
 This backend acts as the core intelligence layer for the PersonaCV AI system, powering chatbot interactions and resume optimization features.
 
+* **Live Server:** https://persona-cv-ai-agent-backend.vercel.app/
+
 * 🎯 Features
 * 🧠 AI-powered resume generation and improvement
 * 💬 Career guidance chatbot responses
