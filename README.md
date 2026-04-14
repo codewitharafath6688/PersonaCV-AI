@@ -6,7 +6,7 @@ This backend acts as the core intelligence layer for the PersonaCV AI system, po
 
 * **Live Server:** https://persona-cv-ai-agent-backend.vercel.app/
 
-* 🎯 Features
+### 🎯 Features
 * 🧠 AI-powered resume generation and improvement
 * 💬 Career guidance chatbot responses
 * 📄 Structured CV content handling
